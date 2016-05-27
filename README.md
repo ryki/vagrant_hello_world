@@ -24,11 +24,7 @@ Build the thing already
 ```
 vagrant docker-run hello_world -- javac HelloWorld/HelloWorld.java
 ```
-Stop the container
-```
-vagrant halt
-```
-**OR** Destroy that pesky thing
+**IF PRoJECT NOT NEEDED ANYMORE** Destroy that pesky thing
 ```
 vagrant destroy
 ```
